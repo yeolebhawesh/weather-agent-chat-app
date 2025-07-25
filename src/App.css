@@ -30,7 +30,7 @@ body, html, #root, .app {
 
 .theme-toggle {
   border: 1px solid;
-  background: transparent;
+  background: grey;
   padding: 6px 10px;
   border-radius: 8px;
   cursor: pointer;
