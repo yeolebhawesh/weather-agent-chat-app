@@ -123,7 +123,7 @@ const App = () => {
   return (
     <div className={`chat-container ${darkMode ? "dark" : "light"}`}>
       <header className="chat-header">
-        <h1>🌤️ Weather Chat</h1>
+        
         <button className="theme-toggle" onClick={() => setDarkMode((prev) => !prev)}>
           {darkMode ? "🌞 Light" : "🌙 Dark"}
         </button>
