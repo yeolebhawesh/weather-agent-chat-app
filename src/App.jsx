@@ -49,7 +49,7 @@ const App = () => {
           temperature: 0.5,
           topP: 1,
           runtimeContext: {},
-          threadId: 2,
+          threadId: 2021016402117922,
           resourceId: "weatherAgent",
         }),
         signal: controller.signal,
